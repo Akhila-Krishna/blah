@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.jumbotron{
+    margin-bottom: auto;
+}
+
+.person-wrapper{
+    margin-bottom: 2cm;
+}
+
+.profile-pic{
+    width: 40%;
+}
+
+.btn-primary{
+    background-color: black;
+}
+
+h1{
+        text-align: right;
+        text-decoration-color: white;
+        margin-top: 100px;
+}
