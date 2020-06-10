@@ -10,8 +10,12 @@ body{
     margin-bottom: 2cm;
 }
 
-.profile-pic{
-    width: 40%;
+.right {
+    float: left;
+  }
+
+.bottom {
+    margin-top: 30px;
 }
 
 .btn-primary{
@@ -19,7 +23,7 @@ body{
 }
 
 h1{
-        text-align: right;
+        text-align: center;
         text-decoration-color: white;
-        margin-top: 100px;
+        margin-top: 200px;
 }
